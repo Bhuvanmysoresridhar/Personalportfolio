@@ -96,7 +96,7 @@ export function ContactSection() {
               </Button>
               
               <Button size="lg" variant="outline" asChild>
-                <a href="public/Resume__1.pdf" download="Bhuvan_Mysore_Sridhar_Resume.pdf">
+                <a href="build/Resume__1.pdf" download="Bhuvan_Mysore_Sridhar_Resume.pdf">
                   <Download className="h-5 w-5 mr-2" />
                   Download Resume
                 </a>

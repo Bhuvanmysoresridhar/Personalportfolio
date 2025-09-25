@@ -1,0 +1,156 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Resources <<
+  /Font <<
+    /F1 4 0 R
+  >>
+>>
+/Contents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+5 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 16 Tf
+50 740 Td
+(Bhuvan Mysore Sridhar) Tj
+0 -20 Td
+/F1 10 Tf
+(Chicago, Illinois, USA | Bhuvanmysoresridhar@gmail.com | +1 3122021130 | LinkedIn) Tj
+
+0 -40 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F1 11 Tf
+(Master of Science in Information Technology and Management | Illinois Institute of Technology | 3.83) Tj
+0 -15 Td
+(Chicago, IL | August 2024 - Present) Tj
+0 -15 Td
+/F1 9 Tf
+(• Relevant Courses: Big Data, Cloud Technologies, Data Engineering, Data Warehousing, Project Management,) Tj
+0 -12 Td
+(  Advanced Topics in Data Management, Service Oriented Architecture, Machine Learning, Quantitative Analysis) Tj
+
+0 -25 Td
+/F1 11 Tf
+(Bachelor of Engineering in Computer Science and Engineering | JSS Science and Technology University) Tj
+0 -15 Td
+(Mysore, Karnataka | August 2020 - July 2024) Tj
+0 -15 Td
+/F1 9 Tf
+(• Relevant Courses: Big Data Analytics, Data Mining, AI, Machine Learning, Software Engineering, Networking) Tj
+
+0 -35 Td
+/F1 14 Tf
+(EXPERIENCE) Tj
+0 -20 Td
+/F1 11 Tf
+(Junior Data Analyst | Tetra Solutions | Mysore, Karnataka | December 2022 - June 2024) Tj
+0 -15 Td
+/F1 9 Tf
+(• Designed and implemented ETL data pipelines using SQL and Python across distributed systems) Tj
+0 -12 Td
+(• Delivered automated reporting and real-time Power BI dashboards, streamlining workflows) Tj
+0 -12 Td
+(• Executed comprehensive data analysis using SQL and data visualization tools) Tj
+
+0 -35 Td
+/F1 14 Tf
+(SKILLS) Tj
+0 -20 Td
+/F1 9 Tf
+(Programming: Python, SQL, Scala, Spark, R, MongoDB, Hadoop, Kafka, Kubernetes, PostgreSQL) Tj
+0 -12 Td
+(Data Engineering: Apache Spark, Hadoop, Apache Kafka, Apache Airflow, ETL Pipelines, Snowflake) Tj
+0 -12 Td
+(Cloud: AWS, Azure, Oracle Cloud, Google Cloud, CI/CD Pipelines) Tj
+0 -12 Td
+(Big Data & Analytics: Data Visualization, Data Governance, Data Quality Management) Tj
+
+0 -35 Td
+/F1 14 Tf
+(PROJECTS) Tj
+0 -20 Td
+/F1 11 Tf
+(Real-Time Stock & Crypto Streaming Data Lakehouse on AWS | September 2025 - Present) Tj
+0 -15 Td
+/F1 9 Tf
+(• Built sophisticated streaming data infrastructure processing 2,500+ records/sec) Tj
+0 -12 Td
+(• Designed Bronze-Silver-Gold Delta Lake architecture with 99.9% schema enforcement) Tj
+
+0 -25 Td
+/F1 11 Tf
+(Event-Driven Data Lakehouse with Real-Time Aggregation | June 2025) Tj
+0 -15 Td
+/F1 9 Tf
+(• Built 3-layer event-driven Data Lakehouse with 15K micro-batch ingestion pipeline) Tj
+
+0 -35 Td
+/F1 14 Tf
+(CERTIFICATIONS) Tj
+0 -20 Td
+/F1 9 Tf
+(• Google Data Analytics | Coursera | 2023) Tj
+0 -12 Td
+(• Python for Data Analysis | Udemy | 2025) Tj
+0 -12 Td
+(• SQL for Data Analytics | Analyst Builder | 2024) Tj
+0 -12 Td
+(• Data Engineering Bootcamp | Udemy | 2025) Tj
+0 -12 Td
+(• Cloud Big Data Mastery Program | StacksOn-Tech | 2026) Tj
+
+ET
+endstream
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000000351 00000 n 
+
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2403
+%%EOF

@@ -1,6 +1,7 @@
 [build]
   command = "npm run build"
-  publish = "build"    # or "build", or "docs" — must match your actual outDir
+  publish = "build"
+
 [[redirects]]
   from = "/*.pdf"
   to = "/:splat"

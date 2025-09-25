@@ -1,9 +1,4 @@
-
-  # Portfolio Website
-
-  This is a code bundle for Portfolio Website. The original project is available at https://www.figma.com/design/o4iVj2IY7ooFy7KGS928W0/Portfolio-Website.
-
-  ## Running the code
+ ## Running the code
 
   Run `npm i` to install the dependencies.
 

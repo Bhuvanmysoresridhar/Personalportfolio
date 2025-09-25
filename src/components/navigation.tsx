@@ -72,7 +72,7 @@ export function Navigation() {
               </a>
             </Button>
             <Button variant="outline" size="sm" className="glass border-white/30 hover:bg-white/20" asChild>
-              <a href="public/Resume__1.pdf" download="Bhuvan_Mysore_Sridhar_Resume.pdf">
+              <a href="/Resume__1.pdf" download="Bhuvan_Mysore_Sridhar_Resume.pdf">
                 <Download className="h-4 w-4 mr-2" />
                 Resume
               </a>

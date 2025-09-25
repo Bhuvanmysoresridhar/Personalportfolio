@@ -1,2 +1,3 @@
-[build.environment]
-  NODE_VERSION = "lts/*"
+[build]
+  command = "npm run build"
+  publish = "build"    # or "build", or "docs" — must match your actual outDir
